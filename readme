@@ -1,0 +1,15 @@
+### Sobre
+
+O Projeto foi desenvolvido tendo como inspiração um curso que realizei, Onde utilizou sessions para login e aprendi a editar arquivos com php
+✔️funcionalidade de login com diferentes tipos de acesso
+✔️funcionalidade de criar chamados editando um arquivo com php para simular um banco de dados
+
+
+### `Rodando o Projeto `
+Recomenda-se estar com Xampp instalado para ver o projeto funcionando
+
+### `🚀 Tecnologias `
+
+Esse foi desenvolvido usando:
+
+✔️PHP 7
